@@ -1,0 +1,20 @@
+[
+  {
+    "title":"التقييم",
+    "provider":"custom",
+    "image":"https://abrahemm20007.files.wordpress.com/2020/05/rate.png",
+    "arguments":[
+      "https://play.google.com/store/apps/details?id=com.abrabi.ladyoscar",
+      "url"
+    ]
+  },
+  
+ {
+    "title":"سياسة الخصوصية وشروط الإستخدام",
+    "provider":"overview",
+    "image":"https://abrahemm20007.files.wordpress.com/2020/05/privacy.png",
+    "arguments":[
+      "https://raw.githubusercontent.com/abr120/videonline/master/Newfolder/privacypolicy.json"
+    ]
+  }
+]

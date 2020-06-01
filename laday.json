@@ -1,0 +1,27 @@
+[
+ {
+     "title":"فلونة",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/falwnay/master/99.jpg",
+    "arguments":[
+      "PL1ZJrJNFKyxBD7xJhzNR-K-bDpuxxMnA6"
+    ]
+  },
+  
+  {
+    "title":"لوسي",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/falwnay/master/101.jpg",
+    "arguments":[
+      "PL1ZJrJNFKyxAHqLUkEBMuUE0Z3Mc79QAz"
+    ]
+  },
+      {
+    "title":"كليمونتين",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/falwnay/master/107.jpg",
+    "arguments":[
+      "PL1ZJrJNFKyxA1MfYT0O2DxOqinaa2JVg0"
+    ]
+  }
+]
